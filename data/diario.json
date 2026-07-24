@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T01:20:58.452Z",
+  "generatedAt": "2026-07-24T01:22:42.730Z",
   "entries": [
     {
       "id": "diccionario-como-1984orwell",
@@ -1456,35 +1456,39 @@
               "size": null
             }
           ]
+        }
+      ],
+      "comments": [
+        {
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-05-10T03:23:03.651Z",
+          "text": "Entrevista completa a Julio Cortázar realizada por Joaquín Soler en su Programa \"A fondo\" (1977) \n19.07.25",
+          "quoted": "prototypo"
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "-------------------------------------------------------------------------------------------------------------------------",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": "Courier New",
-              "size": null
-            }
-          ]
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-05-01T05:06:18.950Z",
+          "text": "Mi cumpleaños 37. Un primero de mayo de 1989. Hasta ahora e vivido exactamente 13,514 días. El desglose de los días de la semana que has atravesado va asi: Lunes: 1,931Martes: 1,931Miércoles: 1,931Jueves: 1,931Viernes: 1,930Sábado: 1,930Domingo: 1,930. Por ahora viví menos fines desemana. 1886, Chicago. Por lo menos 8 horas y su concepto.",
+          "quoted": "01.05.26"
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "2010 - 2014  aprox.",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": null
-            }
-          ]
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-04-26T03:16:36.618Z",
+          "text": "cmd+.",
+          "quoted": "05.03.26"
         },
+        {
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-04-25T02:41:45.566Z",
+          "text": "La intención de esto es entender, primero si se entiende, y luego si tiene el valor para ser publicado. En su expresión justa.",
+          "quoted": "Preludio -"
+        }
+      ]
+    },
+    {
+      "id": "2010---2014-aprox",
+      "title": "2010 - 2014  aprox.",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -2196,53 +2200,14 @@
               "size": null
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "-------------------------------------------------------------------------------------------------------------------------",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": "Merriweather",
-              "size": null
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "2013-2104 En el ",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": "#ead1dc",
-              "font": "Merriweather",
-              "size": null
-            },
-            {
-              "text": "co",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": "#ead1dc",
-              "font": "Merriweather",
-              "size": null
-            },
-            {
-              "text": "psa",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": "#ead1dc",
-              "font": "Merriweather",
-              "size": null
-            }
-          ]
-        },
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "2013-2104-en-el-copsa",
+      "title": "2013-2104 En el copsa",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -2783,35 +2748,14 @@
               "size": null
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "-------------------------------------------------------------------------------------------------------------------------",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": "Courier New",
-              "size": null
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "En el bondi a la costa de oro",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": "Courier New",
-              "size": null
-            }
-          ]
-        },
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "en-el-bondi-a-la-costa-de-oro",
+      "title": "En el bondi a la costa de oro",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -15987,35 +15931,33 @@
               "size": null
             }
           ]
+        }
+      ],
+      "comments": [
+        {
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-05-10T03:47:35.999Z",
+          "text": "Spike Jones",
+          "quoted": "HER."
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "----",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": "#cfe2f3",
-              "font": "Quantico",
-              "size": null
-            }
-          ]
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-05-10T03:07:43.872Z",
+          "text": "https://www.buscalibre.uy/libro-de-paso-por-la-vida/9781173122003/p/4773559",
+          "quoted": "LUIS RODRIGUEZ - EMBIL"
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Esto es para vos que no te animas a leerlo!",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": "#cfe2f3",
-              "font": "Quantico",
-              "size": null
-            }
-          ]
-        },
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-02-27T02:42:38.193Z",
+          "text": "ya la tengoooo",
+          "quoted": "Buscar fotos del mirlo"
+        }
+      ]
+    },
+    {
+      "id": "esto-es-para-vos-que-no-te-animas-a-leerlo",
+      "title": "Esto es para vos que no te animas a leerlo!",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -27371,44 +27313,33 @@
               "size": 11.5
             }
           ]
+        }
+      ],
+      "comments": [
+        {
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-04-09T01:24:08.396Z",
+          "text": "https://www.youtube.com/watch?v=N-H1H9Lo9oE&list=RDN-H1H9Lo9oE&start_radio=1.",
+          "quoted": "[Calma]"
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "----",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": 11.5
-            }
-          ]
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-03-22T06:26:10.026Z",
+          "text": "Un Marte como planeta",
+          "quoted": "Supongamos un Martes que fue Viernes."
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "amsterdam ",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": 11.5
-            },
-            {
-              "text": "calero ",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": 11.5
-            }
-          ]
-        },
+          "author": "Nicolás Capricho Marocci",
+          "date": "2026-03-06T00:51:41.617Z",
+          "text": "https://historia.nationalgeographic.com.es/a/bienvenidos-ano-536-peor-nuestra-historia_21658",
+          "quoted": "536 d.c"
+        }
+      ]
+    },
+    {
+      "id": "amsterdam-calero",
+      "title": "amsterdam calero",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -27422,35 +27353,14 @@
               "size": 11.5
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "--- ",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": 11.5
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "02.07.26",
-              "strikethrough": false,
-              "italic": false,
-              "bold": false,
-              "color": null,
-              "font": null,
-              "size": 11.5
-            }
-          ]
-        },
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "020726",
+      "title": "02.07.26",
+      "blocks": [
         {
           "type": "paragraph",
           "runs": [
@@ -28762,39 +28672,9 @@
         },
         {
           "author": "Nicolás Capricho Marocci",
-          "date": "2026-05-10T03:47:35.999Z",
-          "text": "Spike Jones",
-          "quoted": "HER."
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
           "date": "2026-05-10T03:47:20.839Z",
           "text": "Sofia Coppola",
           "quoted": "Perdidos en tokio."
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-05-10T03:23:03.651Z",
-          "text": "Entrevista completa a Julio Cortázar realizada por Joaquín Soler en su Programa \"A fondo\" (1977) \n19.07.25",
-          "quoted": "prototypo"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-05-10T03:07:43.872Z",
-          "text": "https://www.buscalibre.uy/libro-de-paso-por-la-vida/9781173122003/p/4773559",
-          "quoted": "LUIS RODRIGUEZ - EMBIL"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-05-01T05:06:18.950Z",
-          "text": "Mi cumpleaños 37. Un primero de mayo de 1989. Hasta ahora e vivido exactamente 13,514 días. El desglose de los días de la semana que has atravesado va asi: Lunes: 1,931Martes: 1,931Miércoles: 1,931Jueves: 1,931Viernes: 1,930Sábado: 1,930Domingo: 1,930. Por ahora viví menos fines desemana. 1886, Chicago. Por lo menos 8 horas y su concepto.",
-          "quoted": "01.05.26"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-04-26T03:16:36.618Z",
-          "text": "cmd+.",
-          "quoted": "05.03.26"
         },
         {
           "author": "Nicolás Capricho Marocci",
@@ -28810,39 +28690,9 @@
         },
         {
           "author": "Nicolás Capricho Marocci",
-          "date": "2026-04-25T02:41:45.566Z",
-          "text": "La intención de esto es entender, primero si se entiende, y luego si tiene el valor para ser publicado. En su expresión justa.",
-          "quoted": "Preludio -"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-04-09T01:24:08.396Z",
-          "text": "https://www.youtube.com/watch?v=N-H1H9Lo9oE&list=RDN-H1H9Lo9oE&start_radio=1.",
-          "quoted": "[Calma]"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-03-22T06:26:10.026Z",
-          "text": "Un Marte como planeta",
-          "quoted": "Supongamos un Martes que fue Viernes."
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-03-06T00:51:41.617Z",
-          "text": "https://historia.nationalgeographic.com.es/a/bienvenidos-ano-536-peor-nuestra-historia_21658",
-          "quoted": "536 d.c"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
           "date": "2026-03-06T00:28:05.119Z",
           "text": "Cómo es para un murciélago ser un murciélago? Thomas Nagel",
           "quoted": "[Que se siente ser un murci&#233;lago?]"
-        },
-        {
-          "author": "Nicolás Capricho Marocci",
-          "date": "2026-02-27T02:42:38.193Z",
-          "text": "ya la tengoooo",
-          "quoted": "Buscar fotos del mirlo"
         },
         {
           "author": "Nicolás Capricho Marocci",
